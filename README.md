@@ -1,5 +1,5 @@
-# Cloud-Computing
-learn cloud computing
+# cloud-computing
+cloud computing practice
 
 What is Cloud Computing?
 Cloud computing is the on-demand delivery of compute power, database, storage, applications, and other IT resources via the internet with pay-as-you-go pricing.
